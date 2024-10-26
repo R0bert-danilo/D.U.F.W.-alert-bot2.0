@@ -1,4 +1,6 @@
-discord.py==2.3.2
-requests==2.31.0
-pyfiglet==0.8.post1
-colorama==0.4.6
+setuptools
+asyncio
+discord
+requests
+pyfiglet
+colorama
