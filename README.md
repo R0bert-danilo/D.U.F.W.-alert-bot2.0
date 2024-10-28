@@ -35,9 +35,9 @@ salvar_relatorio(nome_grupo, usuario, data_hora, mensagem): Salva um relatório 
 gerar_relatorio_membros(nome_grupo, membros): Gera um relatório dos membros do servidor.
 MonitoramentoBot: Classe principal que gerencia eventos do Discord.
 
-## Comentários:
+# Comentários:
 
-# melhorias:
+## melhorias:
 Esta versão foram corrigidos os erros de citados na versão anterior tambem teve a melhoria de enviar os relatorios direto para o telegram sem precisar salvar direramente no computador.
 
 
