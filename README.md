@@ -1,4 +1,4 @@
-# D . U . F . W . alert 2.0 BETA
+# D . U . F . W . alert 2.0
 
 ## Descrição
 
